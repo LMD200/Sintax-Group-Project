@@ -35,12 +35,6 @@ git clone https://github.com/LMD200/Sintax-Group-Project.git
 
 No external dependencies required; just clone and run!
 
-## Documentation
-
-Project documentation is available via GitHub Pages in the `docs` folder:  
-[Documentation Website](https://a-r-t.github.io/SER-225-Game-Platformer/)
-
-*Note: Changes to the `docs` folder must be pushed to the `master` branch to update the website.*
 
 ## Credits
 
