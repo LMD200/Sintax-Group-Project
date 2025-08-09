@@ -1,6 +1,6 @@
 # Sintax-Group-Project
 
-A quirky platformer game written in Java.  
+A fun platformer game written in Java.  
 Created for Quinnipiac University's SER225 Agile Development class.
 
 ## Game Premise
@@ -41,5 +41,3 @@ No external dependencies required; just clone and run!
 - **Alex Thimineur**: Programmed the game engine and framework
 
 ---
-
-Happy grading... or adventuring!
